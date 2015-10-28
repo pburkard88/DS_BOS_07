@@ -27,9 +27,9 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 Week | Monday | Wednesday
 --- | --- | ---
- 1 | 10/26: [Intro to Data Science and Machine Learning](Lessons/Lesson01) | 10/28:  [Intro to Databases](Lessons/Lesson02)
- 2 | 11/02: [NoSQL, Python, and Pandas](Lessons/Lesson03) | 11/04: [Web Scraping and Command Line](Lessons/Lesson04) <br>**Final Project Kickoff**
- 3 | 11/09: [Linear Regression and Model Evaluation](Lessons/Lesson05) <br>**HW1 Due** | 11/11: [Intro to Classification - KNN](Lessons/Lesson06) <br>**HW2 Due**
+ 1 | 10/26: [Intro to Data Science and Machine Learning](Lessons/Lesson01) | 10/28:  [Intro to Databases](Lessons/Lesson02) <br>**Final Project Kickoff**
+ 2 | 11/02: [NoSQL, Python, and Pandas](Lessons/Lesson03) | 11/04: [Web Scraping and Command Line](Lessons/Lesson04) <br>**HW1 Due**
+ 3 | 11/09: [Linear Regression and Model Evaluation](Lessons/Lesson05) | 11/11: [Intro to Classification - KNN](Lessons/Lesson06) <br>**HW2 Due**
  4 | 11/16: [Probability and Naive Bayes](Lessons/Lesson07) | 11/18: [Logistic Regression](Lessons/Lesson08) <br>**Project Milestone (PM1):** [Elevator Pitch](Project#november-18-final-project-elevator-pitch)
  5 | 11/23: [Decision Trees](Lessons/Lesson09)  | 11/30: [Support Vector Machines](Lessons/Lesson10)
  6 | 12/02: [Clustering](Lessons/Lesson11) <br>**Project Milestone (PM2):** [Data Ready](Project#december-02-data-ready) | 12/07: [Dimensionality Reduction](Lessons/Lesson12)
