@@ -1,14 +1,14 @@
 ###Lesson 2: Intro to Databases
 
 ####Assignment 1
-- [ SQL Assignment ](https://github.com/ga-students/DS_BOS_07/wiki/Assignment-1)
+- [ SQL Assignment ](https://github.com/pburkard88/DS_BOS_07/wiki/Assignment-1)
 
 ####Slides
 - [ Lesson 2 Slides ](lec02.pdf)
 
 ####Handouts
-- [MySQL Tutorial](https://github.com/ga-students/DS_BOS_07/wiki/MySQL-Tutorial)
-- [Introduction to Python](https://github.com/ga-students/DS_BOS_07/wiki/Introduction-to-Python)
+- [MySQL Tutorial](https://github.com/pburkard88/DS_BOS_07/wiki/MySQL-Tutorial)
+- [Introduction to Python](https://github.com/pburkard88/DS_BOS_07/wiki/Introduction-to-Python)
 
 
 ####Links
