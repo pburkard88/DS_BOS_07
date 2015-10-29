@@ -1,0 +1,8 @@
+1. SELECT * FROM [Customers] WHERE Country='UK'
+2. SELECT c.CustomerName, COUNT(*) FROM Customers c, Orders o WHERE c.CustomerID = o.CustomerID GROUP BY o.CustomerID ORDER BY COUNT(*) DESC
+3. SELECT s.SupplierName, AVG(p.Price) FROM Products p, Suppliers s WHERE p.SupplierID = s.SupplierID GROUP BY s.SupplierID ORDER BY AVG(p.Price) DESC
+4. SELECT c.CategoryName, COUNT(DISTINCT od.OrderID) FROM Categories c, Products p, OrderDetails od WHERE p.CategoryID = c.CategoryID AND od.ProductID = p.ProductID GROUP BY c.CategoryID ORDER BY COUNT(DISTINCT od.OrderID) DESC
+5. SELECT e.LastName, e.FirstName, COUNT(o.OrderID) FROM Orders o, Employees e WHERE o.EmployeeID = e.EmployeeID GROUP BY e.EmployeeID ORDER BY COUNT(o.OrderID) DESC
+6. SELECT e.LastName, e.FirstName, SUM(od.Quantity*p.Price) FROM Orders o, OrderDetails od, Employees e, Products p WHERE o.EmployeeID = e.EmployeeID AND o.OrderID = od.OrderID AND od.ProductID=p.ProductID GROUP BY e.EmployeeID ORDER BY SUM(od.Quantity*p.Price) DESC
+7. SELECT COUNT(*) FROM [Employees] WHERE Notes LIKE '%BS%'
+8. SELECT s.SupplierName, AVG(p.Price) FROM Products p, Suppliers s WHERE s.SupplierID = p.SupplierID GROUP BY p.SupplierID HAVING COUNT(*) > 1 ORDER BY AVG(p.PRICE) DESC
