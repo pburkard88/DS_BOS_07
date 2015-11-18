@@ -32,7 +32,6 @@ Week | Monday | Wednesday
  3 | 11/09: [Linear Regression and Model Evaluation](Lessons/Lesson05) | 11/11: [Intro to Classification - KNN](Lessons/Lesson06) <br>**HW2 Due**
  4 | 11/16: [Probability and Naive Bayes](Lessons/Lesson07) | 11/18: [Logistic Regression](Lessons/Lesson08) <br>**Project Milestone (PM1):** [Elevator Pitch](Project#november-18-final-project-elevator-pitch)
  5 | 11/23: [Decision Trees](Lessons/Lesson09)  | 11/25: _NO CLASS_
-
  6 | 11/30: [Support Vector Machines](Lessons/Lesson10) | 12/02: [Clustering](Lessons/Lesson11) <br>**Project Milestone (PM2):** [Data Ready](Project#december-02-data-ready)
  7 | 12/07: [Dimensionality Reduction](Lessons/Lesson12) | 12/09: [Natural Language Processing and Latent Semantic Indexing](Lessons/Lesson13)
  8 | 12/14: [Recommender Systems](Lessons/Lesson14) | 12/16: [Ensemble Methods](Lessons/Lesson15) <br>**Project Milestone (PM3):** [First Draft Due](project#december-16-first-draft-due-before-class)
