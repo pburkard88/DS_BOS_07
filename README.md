@@ -34,11 +34,11 @@ Week | Monday | Wednesday
  5 | 11/23: [Decision Trees](Lessons/Lesson09)  | 11/25: _NO CLASS_
  6 | 11/30: [Support Vector Machines](Lessons/Lesson10) | 12/02: [Clustering](Lessons/Lesson11) <br>**Project Milestone (PM2):** [Data Ready](Project#december-02-data-ready)
  7 | 12/07: [Dimensionality Reduction](Lessons/Lesson12) | 12/09: [Natural Language Processing and Latent Semantic Indexing](Lessons/Lesson13)
- 8 | 12/14: [Recommender Systems](Lessons/Lesson14) | 12/16: [Ensemble Methods](Lessons/Lesson15) <br>**Project Milestone (PM3):** [First Draft Due](project#december-16-first-draft-due-before-class)
+ 8 | 12/14: [Recommender Systems](Lessons/Lesson14) | 12/16: [Ensemble Methods](Lessons/Lesson15)
  - | 12/21: _NO CLASS_ | 12/23: _NO CLASS_
  - | 12/28: _NO CLASS_ | 12/30: _NO CLASS_
  9 | 01/04: Project Working Session #1 |  01/06: [Network Analysis](Lessons/Lesson16)
-10 | 01/11: [Time Series Analysis](Lessons/Lesson17) <br>**Project Milestone (PM4):** [Peer Feedback Due](Project/peer_review_guidelines.md) <br>**HW3 Due** | 01/13: [Hadoop + Big Data 1](Lessons/Lesson18)
+10 | 01/11: [Time Series Analysis](Lessons/Lesson17) <br>**Project Milestone (PM3):** [First Draft Due](Project#january-11-first-draft-due-before-class) | 01/13: [Hadoop + Big Data 1](Lessons/Lesson18)
 11 | 01/18: [Hadoop + Big Data 2](Lessons/Lesson19) | 01/20: [Course Review](Lessons/Lesson21) and Project Working Session #2
 12 | 01/25: Project Presentations | 1/27: Project Presentations
 
