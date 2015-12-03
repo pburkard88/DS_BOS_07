@@ -89,9 +89,7 @@ In this milestone, you will need to post **at least 3 plots** created based on y
 * any other insights and fun facts that you discovered from the data set
 
 
-### December 16: First Draft Due Before Class
-
-Your peers and instructors will provide feedback by December 16, according to [these guidelines](peer_review_guidelines.md).
+### January 11: First Draft Due Before Class
 
 At a minimum, you should include:
 * Narrative of what you have done so far and what you are still planning to do, ideally in a format similar to the format of your final project paper
