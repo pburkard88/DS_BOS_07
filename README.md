@@ -26,7 +26,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 ### Course Schedule (Tentative)
 
 Week | Monday | Wednesday | Friday
---- | --- | ---
+--- | --- | --- | ---
  1 | 10/26: [Intro to Data Science and Machine Learning](Lessons/Lesson01) | 10/28:  [Intro to Databases](Lessons/Lesson02) <br>**Final Project Kickoff** | &nbsp;
  2 | 11/02: [NoSQL, Python, and Pandas](Lessons/Lesson03) | 11/04: [Web Scraping and Command Line](Lessons/Lesson04) <br>**HW1 Due** | &nbsp;
  3 | 11/09: [Linear Regression and Model Evaluation](Lessons/Lesson05) | 11/11: [Intro to Classification - KNN](Lessons/Lesson06) <br>**HW2 Due** | &nbsp;
