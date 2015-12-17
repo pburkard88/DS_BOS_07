@@ -25,7 +25,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ### Course Schedule (Tentative)
 
-Week | Monday | Wednesday
+Week | Monday | Wednesday | Friday
 --- | --- | ---
  1 | 10/26: [Intro to Data Science and Machine Learning](Lessons/Lesson01) | 10/28:  [Intro to Databases](Lessons/Lesson02) <br>**Final Project Kickoff**
  2 | 11/02: [NoSQL, Python, and Pandas](Lessons/Lesson03) | 11/04: [Web Scraping and Command Line](Lessons/Lesson04) <br>**HW1 Due**
@@ -37,9 +37,9 @@ Week | Monday | Wednesday
  8 | 12/14: [Recommender Systems](Lessons/Lesson14) | 12/16: [Ensemble Methods](Lessons/Lesson15)
  - | 12/21: _NO CLASS_ | 12/23: _NO CLASS_
  - | 12/28: _NO CLASS_ | 12/30: _NO CLASS_
- 9 | 01/04: Project Working Session #1 |  01/06: [Network Analysis](Lessons/Lesson16)
-10 | 01/11: [Time Series Analysis](Lessons/Lesson17) <br>**Project Milestone (PM3):** [First Draft Due](Project#january-11-first-draft-due-before-class) | 01/13: [Hadoop + Big Data 1](Lessons/Lesson18)
-11 | 01/18: [Hadoop + Big Data 2](Lessons/Lesson19) | 01/20: [Course Review](Lessons/Lesson21) and Project Working Session #2
+ 9 | 01/04: Project Working Session #1 |  01/06: [Network Analysis](Lessons/Lesson16) | 01/08: [Time Series Analysis](Lessons/Lesson17)
+10 | 01/11: [Hadoop + Big Data 1](Lessons/Lesson18)<br>**Project Milestone (PM3):** [First Draft Due](Project#january-11-first-draft-due-before-class) | 01/13: [Hadoop + Big Data 2](Lessons/Lesson19)
+11 | 01/18: _NO CLASS_ | 01/20: [Course Review](Lessons/Lesson21) and Project Working Session #2
 12 | 01/25: Project Presentations | 1/27: Project Presentations
 
 ### Resources
