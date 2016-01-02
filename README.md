@@ -37,7 +37,7 @@ Week | Monday | Wednesday | Friday
  8 | 12/14: [Recommender Systems](Lessons/Lesson14) | 12/16: [Ensemble Methods](Lessons/Lesson15) | &nbsp;
  - | 12/21: _NO CLASS_ | 12/23: _NO CLASS_ | &nbsp;
  - | 12/28: _NO CLASS_ | 12/30: _NO CLASS_ | &nbsp;
- 9 | 01/04: Project Working Session #1 |  01/06: [Network Analysis](Lessons/Lesson16) | 01/08: [Time Series Analysis](Lessons/Lesson17)
+ 9 | 01/04: Project Working Session #1 |  01/06: [Network Analysis](Lessons/Lesson16) | 01/08: [Time Series and Data Streams](Lessons/Lesson17)
 10 | 01/11: [Hadoop + Big Data 1](Lessons/Lesson18)<br>**Project Milestone (PM3):** [First Draft Due](Project#january-11-first-draft-due-before-class) | 01/13: [Hadoop + Big Data 2](Lessons/Lesson19) | &nbsp;
 11 | 01/18: _NO CLASS_ | 01/20: [Course Review](Lessons/Lesson21) and Project Working Session #2 | &nbsp;
 12 | 01/25: Project Presentations | 1/27: Project Presentations | &nbsp;
