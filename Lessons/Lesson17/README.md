@@ -5,7 +5,4 @@
 
 ####Handouts
 - [Time Series Analysis](https://github.com/pburkard88/DS_BOS_07/blob/master/Notebooks/17_Time_Series_Analysis.ipynb)
-- [Data Stream Mining](https://github.com/pburkard88/DS_BOS_07/blob/master/Notebooks/17_Data_Stream_Mining.ipynb)
-
-####References  
- * 
+- [Data Stream Mining](https://github.com/pburkard88/DS_BOS_07/blob/master/Notebooks/17_Data_Streams_Demo.ipynb)
