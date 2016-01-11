@@ -16,6 +16,5 @@ If you'd like to follow along with the Spark notebook you can attempt to install
 <pre><code>import findspark
 import os
 findspark.init()
-
 import pyspark
 sc = pyspark.SparkContext()</code></pre>
